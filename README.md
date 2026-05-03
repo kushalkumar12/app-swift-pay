@@ -179,14 +179,14 @@ Step 10  Analytics consumes the completed event and persists
 |---|---|---|
 | Java | 21 | Language runtime |
 | Spring Boot | 3.4 / 3.5 | Application framework |
-| Apache Kafka | — | Asynchronous event streaming |
-| Redis | — | Idempotency & duplicate detection |
-| PostgreSQL | — | Persistent relational data store |
+| Apache Kafka |7.6.1| Asynchronous event streaming |
+| Redis |7.2.5| Idempotency & duplicate detection |
+| PostgreSQL |16.3alp..| Persistent relational data store |
 | Spring Data JPA | — | ORM and database access layer |
 | Lombok | — | Compile-time boilerplate reduction |
 | Springdoc OpenAPI | 2.8.6 | Swagger UI for Gateway and Ledger |
-| Docker | — | Containerisation via multi-stage builds |
-| Maven | — | Build and dependency management |
+| Docker |4.70.0| Containerisation via multi-stage builds |
+| Maven |  | Build and dependency management |
 
 ---
 
@@ -214,7 +214,7 @@ git clone https://github.com/kushalkumar12/app-swift-pay.git
 cd app-swift-pay
 
 # 2. Build and start everything
-docker-compose -f docker-compose.yml up -d
+docker compose -f docker-compose.yml up -d
 ```
 
 Docker Compose will:

@@ -181,12 +181,12 @@ Step 10  Analytics consumes the completed event and persists
 | Spring Boot | 3.4 / 3.5 | Application framework |
 | Apache Kafka |7.6.1| Asynchronous event streaming |
 | Redis |7.2.5| Idempotency & duplicate detection |
-| PostgreSQL |16.3alp..| Persistent relational data store |
+| PostgreSQL |16.3-alpine| Persistent relational data store |
 | Spring Data JPA | — | ORM and database access layer |
 | Lombok | — | Compile-time boilerplate reduction |
 | Springdoc OpenAPI | 2.8.6 | Swagger UI for Gateway and Ledger |
 | Docker |4.70.0| Containerisation via multi-stage builds |
-| Maven |  | Build and dependency management |
+| Maven |4.0.0| Build and dependency management |
 
 ---
 

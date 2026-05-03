@@ -4,8 +4,6 @@
 
 ### Event-Driven Payment Processing Platform
 
-*Built for reliability. Engineered for scale.*
-
 [![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4%2F3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
@@ -490,9 +488,4 @@ dropped_iterations.............: 0           0.00/s
 ---
 
 <div align="center">
-
-**SwiftPay** — Built for the Pyrogroup Assignment
-
-*For educational and evaluation purposes only.*
-
 </div>

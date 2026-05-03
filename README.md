@@ -212,8 +212,8 @@ This is the fastest way to run the entire platform locally. A single command bri
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd PyrogroupAssignment
+git clone https://github.com/kushalkumar12/app-swift-pay.git
+cd app-swift-pay
 
 # 2. Build and start everything
 docker-compose -f docker-compose.yml up -d
